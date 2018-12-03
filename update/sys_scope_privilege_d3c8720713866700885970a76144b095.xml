@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="DemoSafety CF001">01e54acb13c26700885970a76144b091</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>chris.faulkner</sys_created_by>
+        <sys_created_on>2018-12-03 01:50:54</sys_created_on>
+        <sys_id>d3c8720713866700885970a76144b095</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SysRelatedList</sys_name>
+        <sys_package display_value="DemoSafety CF001" source="x_snc_demosafety_c">01e54acb13c26700885970a76144b091</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoSafety CF001">01e54acb13c26700885970a76144b091</sys_scope>
+        <sys_update_name>sys_scope_privilege_d3c8720713866700885970a76144b095</sys_update_name>
+        <sys_updated_by>chris.faulkner</sys_updated_by>
+        <sys_updated_on>2018-12-03 01:50:54</sys_updated_on>
+        <target_name>SysRelatedList</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>

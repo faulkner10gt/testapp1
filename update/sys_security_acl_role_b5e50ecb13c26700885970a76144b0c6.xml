@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>chris.faulkner</sys_created_by>
+        <sys_created_on>2018-12-02 22:08:32</sys_created_on>
+        <sys_id>b5e50ecb13c26700885970a76144b0c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_demosafety_c_demoissue.x_snc_demosafety_c.user</sys_name>
+        <sys_package display_value="DemoSafety CF001" source="x_snc_demosafety_c">01e54acb13c26700885970a76144b091</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoSafety CF001">01e54acb13c26700885970a76144b091</sys_scope>
+        <sys_security_acl display_value="x_snc_demosafety_c_demoissue">39e50ecb13c26700885970a76144b0c2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b5e50ecb13c26700885970a76144b0c6</sys_update_name>
+        <sys_updated_by>chris.faulkner</sys_updated_by>
+        <sys_updated_on>2018-12-02 22:08:32</sys_updated_on>
+        <sys_user_role display_value="x_snc_demosafety_c.user" name="x_snc_demosafety_c.user">1de5cacb13c26700885970a76144b071</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

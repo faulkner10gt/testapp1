@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copy_empty_fields>false</copy_empty_fields>
+        <enforce_mandatory_fields>No</enforce_mandatory_fields>
+        <name>u_imp_tmpl_cmn_location</name>
+        <order>100</order>
+        <run_business_rules>true</run_business_rules>
+        <run_script>false</run_script>
+        <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]></script>
+        <source_table>u_imp_tmpl_cmn_location</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>chris.faulkner</sys_created_by>
+        <sys_created_on>2018-12-03 02:07:29</sys_created_on>
+        <sys_id>829c7ec713866700885970a76144b00a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_imp_tmpl_cmn_location</sys_name>
+        <sys_package display_value="DemoSafety CF001" source="x_snc_demosafety_c">01e54acb13c26700885970a76144b091</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoSafety CF001">01e54acb13c26700885970a76144b091</sys_scope>
+        <sys_update_name>sys_transform_map_829c7ec713866700885970a76144b00a</sys_update_name>
+        <sys_updated_by>chris.faulkner</sys_updated_by>
+        <sys_updated_on>2018-12-03 02:07:29</sys_updated_on>
+        <target_table>cmn_location</target_table>
+    </sys_transform_map>
+</record_update>
